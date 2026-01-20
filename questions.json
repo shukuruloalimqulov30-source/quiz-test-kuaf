@@ -1,0 +1,62 @@
+{
+  "anatomiya": [
+    {
+      "question": "Yelka suyagi lotincha nima deyiladi?",
+      "A": "Femur",
+      "B": "Humerus",
+      "C": "Tibia",
+      "D": "Ulna",
+      "correct": "B"
+    }
+  ],
+  "tibbiy_kimyo": [
+    {
+      "question": "pH 7 dan kichik bo‘lsa bu nima?",
+      "A": "Neytral",
+      "B": "Ishqoriy",
+      "C": "Kislotali",
+      "D": "Tuzli",
+      "correct": "C"
+    }
+  ],
+  "falsafa": [
+    {
+      "question": "Falsafa so‘zi ma’nosi nima?",
+      "A": "Donolikni sevish",
+      "B": "Pul topish",
+      "C": "Tibbiyot",
+      "D": "Sport",
+      "correct": "A"
+    }
+  ],
+  "nemis": [
+    {
+      "question": "Nemis tilida 'salom' qaysi?",
+      "A": "Hallo",
+      "B": "Danke",
+      "C": "Bitte",
+      "D": "Tschüss",
+      "correct": "A"
+    }
+  ],
+  "rus": [
+    {
+      "question": "Rus tilida 'Rahmat' qaysi?",
+      "A": "Privet",
+      "B": "Spasibo",
+      "C": "Poka",
+      "D": "Da",
+      "correct": "B"
+    }
+  ],
+  "gistologiya": [
+    {
+      "question": "Epiteliy to‘qima nima vazifa bajaradi?",
+      "A": "Qoplash va himoya",
+      "B": "Faqat qon tashiydi",
+      "C": "Faqat suyak yasaydi",
+      "D": "Faqat nerv beradi",
+      "correct": "A"
+    }
+  ]
+}
